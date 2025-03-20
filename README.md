@@ -1,6 +1,6 @@
 # EaglerCraftX
 EaglerCraft Client Collections  
-Forked from **PrestonT500**
+Fork of project by **PrestonT500** and other contributors 
 
 **Link:** https://slyerv.github.io/eag
 
